@@ -1,0 +1,16 @@
+D:\DentalSurgeryProject\DentalSurgeryProject\bin\Debug\DentalSurgeryProject.exe.config
+D:\DentalSurgeryProject\DentalSurgeryProject\bin\Debug\DentalSurgeryProject.exe
+D:\DentalSurgeryProject\DentalSurgeryProject\bin\Debug\DentalSurgeryProject.pdb
+D:\DentalSurgeryProject\DentalSurgeryProject\obj\Debug\DentalSurgeryProject.csprojAssemblyReference.cache
+D:\DentalSurgeryProject\DentalSurgeryProject\obj\Debug\DentalSurgeryProject.Form1.resources
+D:\DentalSurgeryProject\DentalSurgeryProject\obj\Debug\DentalSurgeryProject.Form2.resources
+D:\DentalSurgeryProject\DentalSurgeryProject\obj\Debug\DentalSurgeryProject.Properties.Resources.resources
+D:\DentalSurgeryProject\DentalSurgeryProject\obj\Debug\DentalSurgeryProject.csproj.GenerateResource.cache
+D:\DentalSurgeryProject\DentalSurgeryProject\obj\Debug\DentalSurgeryProject.csproj.CoreCompileInputs.cache
+D:\DentalSurgeryProject\DentalSurgeryProject\obj\Debug\DentalSurgeryProject.exe
+D:\DentalSurgeryProject\DentalSurgeryProject\obj\Debug\DentalSurgeryProject.pdb
+D:\DentalSurgeryProject\DentalSurgeryProject\obj\Debug\DentalSurgeryProject.Form3.resources
+D:\DentalSurgeryProject\DentalSurgeryProject\obj\Debug\DentalSurgeryProject.Form4.resources
+D:\DentalSurgeryProject\DentalSurgeryProject\obj\Debug\DentalSurgeryProject.Form5.resources
+D:\DentalSurgeryProject\DentalSurgeryProject\obj\Debug\DentalSurgeryProject.Form6.resources
+D:\DentalSurgeryProject\DentalSurgeryProject\obj\Debug\DentalSurgeryProject.Form7.resources
